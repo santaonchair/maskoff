@@ -4,7 +4,7 @@
 </p>
 
 <h2 align="center">Description</h2>
-This repository shows how MLM works using `FillMaskPipeline` from HuggingFace's `transformers` library.
+This repository shows how MLM works using HuggingFace's [transformers](https://github.com/huggingface/transformers) library.
 
 <h2 align="center">Install</h2>
 
