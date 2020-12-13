@@ -6,6 +6,14 @@
 <h2 align="center">Description</h2>
 This repository shows how MLM works using `FillMaskPipeline` from HuggingFace's `transformers` library.
 
+<h2 align="center">Install</h2>
+
+`maskoff` can be installed using pip as follows:
+
+```bash
+pip install git+https://github.com/santaonchair/maskoff.git
+```
+
 <h2 align="center">Usage</h2>
 
 Mask off through `MaskOffPipeline`
