@@ -39,4 +39,4 @@ class MaskOffPipeline(FillMaskPipeline):
 
             print(" ".join(tokens))
             for prediction in super().__call__(" ".join(tokens)):
-                print("{:<10}{:.2%}".format(prediction['token_str'], prediction['score']))
+                print("{:<15}{:.2%}".format(prediction['token_str'], prediction['score']))
