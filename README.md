@@ -17,7 +17,7 @@ pip install git+https://github.com/santaonchair/maskoff.git
 
 <h2 align="center">Usage</h2>
 
-Mask off through `MaskOffPipeline`
+Mask off through `MaskOffPipeline` (examples are from Lyrics [Future - Mask Off](https://genius.com/Future-mask-off-lyrics))
 
 ``` python
 >>> from maskoff import MaskOffPipeline
